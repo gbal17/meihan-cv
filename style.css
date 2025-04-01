@@ -91,11 +91,12 @@ body {
 /* Section Styling */
 section {
     background: white;
-    padding: 3px 15px;
-    margin-bottom: 3px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
 /* Text Styling */
 .content p {
@@ -116,8 +117,8 @@ section {
 /* Section Titles */
 h1, h2 {
     font-size: 1.2em;
-    margin-bottom: 5px;
-    margin-top: 10px;
+    margin-top: 0;
+    margin-bottom: 8px;
     /* color: #008E97 !important; */
     /* color: #9d4a74 !important; */
     /* color: #af138a !important;  */
@@ -177,7 +178,7 @@ h1, h2 {
 .publications {
     background: white;
     padding: 8px 15px;
-    margin-bottom: 12.5px;
+    margin-bottom: 10px;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -248,7 +249,7 @@ h1, h2 {
 .gee-apps {
     background: white;
     padding: 8px 15px;
-    margin-top: -10px;
+    /* margin-top: -10px; */
     margin-bottom: 10px;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
@@ -309,6 +310,26 @@ a:visited {
     color: #005bb5 !important;
     text-decoration: underline !important;
 }
+
+
+/* Consistent spacing between section titles and first content */
+section > p:first-of-type,
+section > ul:first-of-type {
+    margin-top: 0px;
+}
+
+/* Consistent spacing below last content inside each section */
+section p:last-of-type,
+section ul:last-of-type,
+section li:last-of-type {
+    margin-bottom: 0; /* or 5px for a bit more spacing */
+}
+
+section + section {
+    margin-top: -8px;
+}
+
+
 
 .journey-title {
     font-family: "American Typewriter", serif;
