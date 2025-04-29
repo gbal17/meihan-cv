@@ -1,0 +1,98 @@
+Curriculum Vitae – Meihan Liu
+
+Personal Information
+--------------------
+Name: Meihan Liu
+Gender: Female
+Ethnicity: Han
+Date of Birth: June 1993
+Place of Birth: Inner Mongolia
+Political Affiliation: Communist Party Member
+Degree: Ph.D. in Engineering
+Phone: 18813171983
+Email: liumh93@163.com
+Mailing Address: Hydraulics Laboratory, Tsinghua University, Haidian District, Beijing, Zip Code: 100084
+
+Academic Discipline & Research Interests
+----------------------------------------
+Primary Discipline: Agricultural Engineering / Hydraulic Engineering
+Research Interests:
+- Water-saving irrigation
+- Saline-alkali land remediation
+- Remote sensing evapotranspiration
+- Crop water consumption mechanisms
+- Water-salt transport
+
+Education & Research Experience
+-------------------------------
+Tsinghua University (10/2022 - Present)
+Postdoctoral Researcher in Hydrology and Water Resources
+Advisor: Associate Professor Huimin Lei
+
+Inner Mongolia Agricultural University (09/2015 - 12/2021)
+Ph.D. (Integrated M.S.-Ph.D.) in Agricultural Water and Soil Engineering
+Advisor: Professor Haibin Shi
+
+University of Lisbon, Portugal (12/2018 - 07/2020)
+CSC Joint Ph.D. Training in Agricultural Water and Soil Engineering
+Advisor: Luis Santos Pereira
+
+Inner Mongolia Agricultural University (09/2011 - 07/2015)
+B.Eng. in Agricultural Hydraulic Engineering (Direct Admission to Graduate Studies)
+
+Research Projects
+-----------------
+• National Natural Science Foundation Key Project (01/2016 - 12/2020):
+  "Water and Fertilizer Cycle Mechanism and Regulation in Saline Irrigation Areas under Changing Environments"
+  Role: Crop water consumption estimation and evapotranspiration analysis.
+
+• National Key R&D Program of China (09/2016 - 12/2020):
+  "Efficient Water-saving Irrigation Technology Research and Integration for Grain and Economic Crops in the Hetao Irrigation District, Inner Mongolia"
+  Role: Optimizing crop irrigation systems.
+
+• National Natural Science Foundation Project (09/2018 - 12/2021):
+  "Effects of Water-saving Reconstruction on Soil-Water Environment in Saline Irrigation Areas and Its Regulation Mechanism"
+  Role: Investigated groundwater table influences on crop and soil water-salt processes.
+
+• National Key R&D Program (07/2021 - 12/2025):
+  "Integration and Model Assembly of Water-saving, Salt Control, and Productivity Enhancement Technologies and Optimization Simulation System for Efficiency Testing"
+  Role: Remote sensing-based farmland evapotranspiration inversion.
+
+Professional Experience & Leadership
+------------------------------------
+• Class League Secretary & Cultural Committee Member (09/2011 - 06/2015)
+• Office Director & Head of Quality Development Department, Student Union (09/2013 - 06/2015)
+• Lead Coordinator for International Student Reception during President Xi Jinping’s State Visit to Portugal (11/2018 - 01/2019)
+
+Skills & Certifications
+-----------------------
+• Teaching Certification: Junior High School Mathematics Teacher Qualification
+• Software Proficiency: AutoCAD, Microsoft Office, Sigmaplot, Origin, DPS, Photoshop
+• Programming Skills: Proficient in R and Python for crop evapotranspiration simulation and statistical analysis;
+  Familiar with Google Earth Engine platform programming
+
+Awards & Honors
+---------------
+• "Outstanding Student Leader," Inner Mongolia Autonomous Region (07/2013)
+• National Encouragement Scholarship (11/2014)
+• "Outstanding University Graduate," Inner Mongolia Autonomous Region (05/2015)
+
+Patents & Software Copyrights
+-----------------------------
+• Utility Model Patent: Alfalfa Root Sampler, China, ZL201920979965.8 (2020-04-07)
+• Invention Patent: Coordinated Irrigation, Drainage, and Fertilization in Saline-alkali Land, China, CN117521411A (2024-02-06)
+• Software Copyright: Soil Moisture Content Simulation Software for Different Irrigation Systems V1.0, China, 2021SR0150859 (2020-08-07)
+
+Postdoctoral Research
+---------------------
+Research Topic:
+High-Resolution Remote Sensing Evapotranspiration Inversion in Highly Heterogeneous Saline-Alkaline Farmland in Arid Regions
+
+Main Objectives:
+1. Develop a remote sensing evapotranspiration model incorporating salinity stress factors to investigate evapotranspiration under salinity stress.
+2. Utilize multi-source remote sensing data fusion algorithms to obtain high spatiotemporal resolution datasets for analyzing the spatiotemporal evolution of crop evapotranspiration at the farmland scale.
+
+Personal Statement
+------------------
+Dedicated researcher with a rigorous academic attitude, strong teamwork abilities, an outgoing personality,
+excellent communication skills, and a passion for sports.
